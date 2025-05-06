@@ -204,8 +204,7 @@ const default_configuration = {
               url: "https://store.epicgames.com",
               icon: "brand-fortnite",
               icon_color: palette.red,
-            },
-            {
+            }
           ],
         },
         {
